@@ -1,3 +1,1 @@
-﻿Git : hello word ！
-test1
-test2
+﻿Git : hello world ！
